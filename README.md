@@ -12,8 +12,8 @@
 ### Run Project
 
 
-# API ENDPOINT
-## Type URL - http://localhost:9191/get
+# API ENDPOINT (type this in any browser after running project)
+## Type URL - http://localhost:9191/get                                
 
 
 #Problem statement
